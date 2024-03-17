@@ -1,1 +1,1 @@
-# VLC-Conference-2024
+# VLC Conference 2024
