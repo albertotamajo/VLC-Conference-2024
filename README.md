@@ -14,5 +14,4 @@ Hello there! I hope you enjoyed my poster and are now curious about learning mor
   - McCloskey, Michael, and Neal J. Cohen. "Catastrophic interference in connectionist networks: The sequential learning problem." Psychology of learning and motivation. Vol. 24. Academic Press, 1989. 109-165, https://www.sciencedirect.com/science/article/pii/S0079742108605368
   - Goodfellow, Ian J., et al. "An empirical investigation of catastrophic forgetting in gradient-based neural networks." arXiv preprint arXiv:1312.6211 (2013), https://arxiv.org/abs/1312.6211
   - **Coreset selection**
-    - Feldman, Dan. "Core-sets: Updated survey." Sampling techniques for supervised or unsupervised tasks (2020): 23-44, https://link.springer.com/chapter/10.1007/978-3-030-29349-9_2
-    -     
+    - Feldman, Dan. "Core-sets: Updated survey." Sampling techniques for supervised or unsupervised tasks (2020): 23-44, https://link.springer.com/chapter/10.1007/978-3-030-29349-9_2     
